@@ -1,0 +1,11 @@
+C:\Users\Acer\OneDrive\Desktop\C# Lab Report\DotN\utils\bin\Debug\net6.0\Utility.deps.json
+C:\Users\Acer\OneDrive\Desktop\C# Lab Report\DotN\utils\bin\Debug\net6.0\Utility.dll
+C:\Users\Acer\OneDrive\Desktop\C# Lab Report\DotN\utils\bin\Debug\net6.0\Utility.pdb
+C:\Users\Acer\OneDrive\Desktop\C# Lab Report\DotN\utils\obj\Debug\net6.0\Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\C# Lab Report\DotN\utils\obj\Debug\net6.0\Utility.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\C# Lab Report\DotN\utils\obj\Debug\net6.0\Utility.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\C# Lab Report\DotN\utils\obj\Debug\net6.0\Utility.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\C# Lab Report\DotN\utils\obj\Debug\net6.0\Utility.dll
+C:\Users\Acer\OneDrive\Desktop\C# Lab Report\DotN\utils\obj\Debug\net6.0\refint\Utility.dll
+C:\Users\Acer\OneDrive\Desktop\C# Lab Report\DotN\utils\obj\Debug\net6.0\Utility.pdb
+C:\Users\Acer\OneDrive\Desktop\C# Lab Report\DotN\utils\obj\Debug\net6.0\ref\Utility.dll
